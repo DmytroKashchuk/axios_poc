@@ -1,0 +1,9 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Innocent downstream app - only imports axios, never plain-crypto-js",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "1.14.1"
+  }
+}

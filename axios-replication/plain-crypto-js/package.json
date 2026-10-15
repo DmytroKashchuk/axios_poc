@@ -1,0 +1,10 @@
+{
+  "name": "plain-crypto-js",
+  "version": "4.2.1",
+  "description": "Crypto utilities (FAKE - educational replica of axios incident)",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node setup.js"
+  },
+  "license": "MIT"
+}
